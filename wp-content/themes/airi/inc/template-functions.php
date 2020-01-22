@@ -286,12 +286,12 @@ function airi_footer_credits() {
 		<?php if ( $credits == '' ) : ?>
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'airi' ) ); ?>"><?php
 				/* translators: %s: CMS name, i.e. WordPress. */
-				printf( esc_html__( 'Proudly powered by %s', 'airi' ), 'WordPress' );
+				printf( esc_html__( '© Copyright 2020 %s', 'airi' ), 'Sturges Mews' );
 			?></a>
 			<span class="sep"> | </span>
 			<?php
 				/* translators: 1: Theme name, 2: Theme author. */
-				printf( esc_html__( 'Theme: %2$s by %1$s.', 'airi' ), 'aThemes', '<a href="https://athemes.com/theme/airi" rel="nofollow">Airi</a>' );
+				printf( esc_html__( 'Designed and developed by %2$s .', 'airi' ), '', '<a target="_blank" href="https://mc2architects.co.nz" rel="nofollow">mc2 architects</a>' );
 			?>
 		<?php else : ?>
 			<?php echo wp_kses_post( $credits ); ?>
