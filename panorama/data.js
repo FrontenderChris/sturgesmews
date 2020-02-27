@@ -273,11 +273,11 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "Sturges Mews",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": false,
-    "viewControlButtons": false
+    "fullscreenButton": true,
+    "viewControlButtons": true
   }
 };
