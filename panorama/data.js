@@ -37,19 +37,19 @@ var APP_DATA = {
           "yaw": 0.7685195416929265,
           "pitch": 0.0033960984878120826,
           "title": "Block D",
-          "text": "LOT 16-20<div>2 Bedrooms 73m2</div>"
+          "text": "LOT 16-20<div>2 Bedrooms 73 m2</div>"
         },
         {
           "yaw": -0.8550870526910082,
           "pitch": -0.006320224264655394,
           "title": "Block E",
-          "text": "LOT 21-25<div>2 Bedrooms 70m2</div>"
+          "text": "LOT 21-25<div>2 Bedrooms 70 m2</div>"
         },
         {
           "yaw": -1.1307657134164693,
           "pitch": -0.20160026233209294,
           "title": "Block E",
-          "text": "LOT 26-27<div>3 Bedrooms 110m2</div>"
+          "text": "LOT 26-27<div>3 Bedrooms 110 m2</div>"
         },
         {
           "yaw": 1.7064990751894253,
@@ -102,49 +102,49 @@ var APP_DATA = {
           "yaw": 1.5446104687187745,
           "pitch": 0.13202267489862685,
           "title": "Block C",
-          "text": "LOT 11-15<div>2 Bedrooms 73m2</div>"
+          "text": "LOT 11 - 15<div>2 Bedrooms 70.6 m2</div>"
         },
         {
           "yaw": 2.447863926275251,
           "pitch": 0.07988588486893278,
           "title": "Block D",
-          "text": "LOT 16-20<div>2 Bedrooms 73 m2</div>"
+          "text": "LOT 16 - 20<div>2 Bedrooms 73 m2</div>"
         },
         {
           "yaw": -2.519117524393069,
           "pitch": 0.18671524298641629,
           "title": "Block E",
-          "text": "LOT 21-25<div>2 Bedrooms 70m2</div>"
+          "text": "LOT 21 - 25<div>2 Bedrooms 70m2</div>"
         },
         {
-          "yaw": -1.81834308011873,
-          "pitch": -0.023690911028513284,
+          "yaw": -1.8182734838064132,
+          "pitch": -0.02517988007552674,
           "title": "Block E",
-          "text": "LOT 26-27<div>3 Bedrooms 110m2</div>"
+          "text": "LOT 26 - 27<div>3 Bedrooms 110 m2</div>"
         },
         {
           "yaw": -0.8670157601497266,
           "pitch": 0.005333284643901592,
           "title": "Block F",
-          "text": "LOT 28-33<div>3 Bedrooms 117m2</div>"
+          "text": "LOT 28 - 33<div>3 Bedrooms 117.9 m2</div>"
         },
         {
           "yaw": -0.19761511097126494,
           "pitch": 0.17520975707621034,
           "title": "Block B",
-          "text": "LOT 6-10<div>2 Bedrooms 70.6m2</div>"
+          "text": "LOT 6 - 10<div>2 Bedrooms 70.6 m2</div>"
         },
         {
-          "yaw": 0.6173295817814299,
-          "pitch": 0.14154715434587217,
+          "yaw": 0.6176695545900994,
+          "pitch": 0.1501312762021474,
           "title": "Block A",
-          "text": "LOT 1-5<div>2 Bedrooms 73m2</div>"
+          "text": "LOT 1 - 5<div>2 Bedrooms 73 m2</div>"
         },
         {
           "yaw": 3.0096456950360277,
           "pitch": 0.06788274714216946,
-          "title": "Sturges Road",
-          "text": "Main Entrance"
+          "title": "Sturges Road - Main Entrance",
+          "text": "<div>A short drive to access the North Western Motorway.<br></div><div>Three minutes' distance to railway station by walking.<br></div>"
         }
       ]
     }
