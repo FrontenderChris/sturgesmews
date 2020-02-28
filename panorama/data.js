@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-entrance",
-      "name": "Entrance",
+      "id": "0-sturges-road",
+      "name": "Sturges Road",
       "levels": [
         {
           "tileSize": 256,
@@ -37,19 +37,19 @@ var APP_DATA = {
           "yaw": 0.7685195416929265,
           "pitch": 0.0033960984878120826,
           "title": "Block D",
-          "text": "LOT 16-20<div>2 Bedrooms 73 m2</div>"
+          "text": "LOT 16 - 20<div>2 Bedrooms 73 m2</div>"
         },
         {
           "yaw": -0.8550870526910082,
           "pitch": -0.006320224264655394,
           "title": "Block E",
-          "text": "LOT 21-25<div>2 Bedrooms 70 m2</div>"
+          "text": "LOT 21 - 25<div>2 Bedrooms 70 m2</div>"
         },
         {
           "yaw": -1.1307657134164693,
           "pitch": -0.20160026233209294,
           "title": "Block E",
-          "text": "LOT 26-27<div>3 Bedrooms 110 m2</div>"
+          "text": "LOT 26 - 27<div>3 Bedrooms 110 m2</div>"
         },
         {
           "yaw": 1.7064990751894253,
@@ -94,7 +94,7 @@ var APP_DATA = {
           "yaw": 2.9155917420510056,
           "pitch": 0.06711962147532624,
           "rotation": 0,
-          "target": "0-entrance"
+          "target": "0-sturges-road"
         }
       ],
       "infoHotspots": [
